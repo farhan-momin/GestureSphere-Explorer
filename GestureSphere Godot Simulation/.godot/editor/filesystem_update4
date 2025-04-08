@@ -1,0 +1,13 @@
+res://default_bus_layout.tres
+res://menu/menu.tscn
+res://main/main.gd
+res://player/bullet/effect/BlastMaterial.tres
+res://effects_shared/blob_shadow.tres
+res://enemies/red_robot/laser/impact_effect/EmissionAlbedoParticle.gdshader
+res://enemies/red_robot/laser/impact_effect/EmissionEmbers.gdshader
+res://enemies/red_robot/laser/EmberTrailCutoff.tres
+res://enemies/red_robot/laser/smoke.gdshader
+res://enemies/red_robot/laser/smoke.tres
+res://enemies/red_robot/parts/EvilRobo.tres
+res://enemies/red_robot/parts/ray.gdshader
+res://menu/button_font.tres

@@ -1,0 +1,2 @@
+Image
+CompressedTexture2DArray

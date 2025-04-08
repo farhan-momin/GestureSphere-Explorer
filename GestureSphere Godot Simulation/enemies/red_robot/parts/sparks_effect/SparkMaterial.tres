@@ -1,0 +1,7 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://b0yi1uf4xb6ex"]
+
+[ext_resource type="Shader" path="res://enemies/red_robot/parts/sparks_effect/SparkShader.gdshader" id="2"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("2")
