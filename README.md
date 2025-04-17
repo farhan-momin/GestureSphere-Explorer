@@ -14,3 +14,9 @@ GestureSphere Explorer consists of two part, VR based android application and PC
 - Run the app
 Additionally, refer to [Build and Test](https://developer.android.com/guide/app-bundle/test) android guide to export the app as APK and run on android devices.
 
+### GestureSphere VR Simulation
+
+- Import `GestureSphere Godot Simulation` folder in Godot engine
+- Run Project
+Refer to [setup and Run](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/01.project_setup.html) to learn more about using Godot engine
+
